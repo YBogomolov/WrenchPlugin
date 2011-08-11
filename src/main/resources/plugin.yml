@@ -1,7 +1,3 @@
 name: WrenchPlugin
 main: com.github.doodlez.bukkit.globalquest.WrenchPlugin
 version: 0.0.1
-commands:
-  wrench:
-    description: Removes IndustrialCraft machines when user holds wrench in hand.
-    usage: /wrench while targeting machine block.
