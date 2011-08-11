@@ -191,7 +191,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bukkit-sample-plugin.iml" filepath="$PROJECT_DIR$/bukkit-sample-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrenchPlugin.iml" filepath="$PROJECT_DIR$/WrenchPlugin.iml" />
     </modules>
   </component>
   <component name="ProjectResources">
